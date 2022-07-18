@@ -10,7 +10,7 @@
 https://shultais.education/lms/courses/python-3/tasks/1
 """
 
-import sys
+import sys 
 
 sup_string = sys.argv[1].upper().center(20, '+')
 
